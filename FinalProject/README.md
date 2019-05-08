@@ -123,4 +123,3 @@
 
 ### Result Washington, DC:
 ![Result](resultb.jpg)
-![Result](resultb.jpg)
