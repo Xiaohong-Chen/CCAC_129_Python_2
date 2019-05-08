@@ -118,5 +118,9 @@
                 writeCsvFile(region)
                 doDataAnalytics(region)
 
-### RESULT:
-![Result](result.jpg)
+### RESULT San Francisco, CA:
+![Result](resulta.jpg)
+
+### Result Washington, DC:
+![Result](resultb.jpg)
+![Result](resultb.jpg)
